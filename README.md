@@ -1,4 +1,4 @@
-# GOACS2 Module 4 - File Practice
+# GOACS2 Module 3 - File Practice
 
 Please complete all of the programs as described on the assignment page.
 
